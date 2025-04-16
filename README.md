@@ -1,4 +1,4 @@
-# AskAdam: An LLM-Powered Q&A Agent for NBA Analytics
+# AskAdam: An LLM-Powered Q&A Agent for NBA Analytics 🏀💻🔍
 
 ## Overview
 AskAdam is an intelligent question-answering system that combines large language models (LLMs) with advanced basketball analytics to deliver fast, insightful responses to natural language queries. Built for analysts, coaches, fans, and data scientists, AskAdam bridges the gap between raw NBA data and actionable insights. AskAdam is built on NBA Team Data, consisting of data from the 2017/2018 season through midseason of the 2024/2025 season (excluding the 2020/2021 season).
