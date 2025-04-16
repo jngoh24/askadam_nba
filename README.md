@@ -40,3 +40,8 @@ Python
 Azure OpenAI  
 Pandas, NumPy, SQL, BeautifulSoup  
 Vector Database (Azure Embeddings) for semantic search  
+
+## Future Improvements
+- Working to get this model stood up as an app or on a dedicated website
+- Additional data can be implement: player data, fan data, sponsorship data, etc.
+
