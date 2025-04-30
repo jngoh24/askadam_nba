@@ -14,7 +14,7 @@ AskAdam is an intelligent question-answering system that combines large language
     Fast responses backed by efficient querying and processing pipelines.
 
 ## Example Questions
-*"Which 5 teams led the league in scoring during the 22/22 season?"*
+*"Which 5 teams led the league in scoring during the 22/23 season?"*
 
 *"Which team leads the league in offesnsive efficiency this year, which team is last in offensive efficiency this year, and what is the difference between the two?"*
 
