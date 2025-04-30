@@ -3,15 +3,17 @@
 ## Overview
 AskAdam is an intelligent question-answering system that combines large language models (LLMs) with advanced basketball analytics to deliver fast, insightful responses to natural language queries. Built for analysts, coaches, fans, and data scientists, AskAdam bridges the gap between raw NBA data and actionable insights. AskAdam is built on NBA Team Data, consisting of data from the 2017/2018 season through midseason of the 2024/2025 season (excluding the 2020/2021 season).
 
-## Features
+## Model Features
 - **Natural Language Understanding**
     Ask complex basketball questions in plain English — no SQL or code required.
 - **LLM-Driven Intelligence**
     Powered by a large language model that interprets and responds to questions with contextual understanding and reasoning.
 - **Advanced Basketball Analytics**
-    Leverages real NBA data and statistical models to answer questions involving shot probabilities, player tendencies, team matchups, and more.
+    Leverages real NBA data and statistical models to answer questions involving team perfromance metrics. Data Features include: TEAM, CONF, DIVISION, GP, PPG, oPPG, pDIFF, PACE, oEFF, dEFF, W, L, WIN%, SEASON
 - **Real-Time Insight Delivery**
     Fast responses backed by efficient querying and processing pipelines.
+
+## Model Features
 
 ## Example Questions
 *"Which 5 teams led the league in scoring during the 22/23 season?"*
@@ -19,6 +21,8 @@ AskAdam is an intelligent question-answering system that combines large language
 *"Which team leads the league in offesnsive efficiency this year, which team is last in offensive efficiency this year, and what is the difference between the two?"*
 
 *"What was the Lakers record in 2022/2023 compared to their record in 2021/2022? What was the difference in games won?"*
+
+*"What team in the Lakers' division had the most wins in 2023/2024 season?"*
 
 AskAdam understands these questions and delivers clear, data-rich answers.  
 
