@@ -9,7 +9,7 @@ AskAdam is an intelligent question-answering system that combines large language
 - **LLM-Driven Intelligence**
     Powered by a large language model that interprets and responds to questions with contextual understanding and reasoning.
 - **Advanced Basketball Analytics**
-    Leverages real NBA data and statistical models to answer questions involving team perfromance metrics. Data Features include: TEAM, CONF, DIVISION, GP, PPG, oPPG, pDIFF, PACE, oEFF, dEFF, W, L, WIN%, SEASON
+    Leverages real NBA data and statistical models to answer questions involving team perfromance metrics. *Data Features include: TEAM, CONF, DIVISION, GP, PPG, oPPG, pDIFF, PACE, oEFF, dEFF, W, L, WIN%, SEASON*
 - **Real-Time Insight Delivery**
     Fast responses backed by efficient querying and processing pipelines.
 
