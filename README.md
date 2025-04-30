@@ -18,7 +18,7 @@ AskAdam is an intelligent question-answering system that combines large language
 
 *"Which team leads the league in offesnsive efficiency this year, which team is last in offensive efficiency this year, and what is the difference between the two?"*
 
-*"What was the Lakers record in 2022/2023 compared to their record in 2019/2020? What was the difference in games won?"*
+*"What was the Lakers record in 2022/2023 compared to their record in 2021/2022? What was the difference in games won?"*
 
 AskAdam understands these questions and delivers clear, data-rich answers.  
 
