@@ -1,4 +1,5 @@
 # AskAdam: An LLM-Powered Q&A Agent for NBA Analytics 🏀💻🔍
+https://jngoh24.github.io/
 
 ## Overview
 AskAdam is an intelligent question-answering system that combines large language models (LLMs) with advanced basketball analytics to deliver fast, insightful responses to natural language queries. Built for analysts, coaches, fans, and data scientists, AskAdam bridges the gap between raw NBA data and actionable insights. AskAdam is built on NBA Team Data, consisting of data from the 2017/2018 season through midseason of the 2024/2025 season (excluding the 2020/2021 season).
@@ -46,6 +47,4 @@ Pandas, NumPy, SQL, BeautifulSoup
 Vector Database (Azure Embeddings) for semantic search  
 
 ## Future Improvements
-- Working to get this model stood up as an app or on a dedicated website
 - Additional data can be implement: player data, fan data, sponsorship data, etc.
-
